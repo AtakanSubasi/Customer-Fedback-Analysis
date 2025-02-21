@@ -4,7 +4,7 @@
 
 This project analyzes customer feedback, response times, and complaint resolution rates. The goal is to visualize the relationship between customer satisfaction and response times while also presenting data on complaint resolutions.
 
-# ------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 
 # Dataset Description
 
@@ -22,7 +22,7 @@ The dataset consists of 100 customer reviews with the following fields:
 
 * Resolved: Whether the complaint was resolved (YES/NO)
 
-# ------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 
 # Visualizations
 
@@ -34,7 +34,7 @@ This project includes various visualizations to better understand customer feedb
 
 3. Scatter Plot: Analyzes the relationship between response time and customer satisfaction.
 
-# ------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 
 # Technologies Used
 
@@ -46,7 +46,7 @@ This project includes various visualizations to better understand customer feedb
 
 * Matplotlib
 
-# ------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 
 How to Run the Project
 
@@ -60,7 +60,7 @@ python customer_feedback_analysis.py
 
 3. View the generated visualizations.
 
-# ------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 
 # Insights
 
@@ -70,7 +70,7 @@ python customer_feedback_analysis.py
 
 * Understanding resolution rates helps improve customer service strategies.
 
-# ------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 
 # Future Improvements
 
@@ -80,7 +80,7 @@ python customer_feedback_analysis.py
 
 * Develop an interactive dashboard for real-time analytics.
 
-# ------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 
 # Author
 
